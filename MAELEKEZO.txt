@@ -1,0 +1,32 @@
+NIPESALUS COMPANY LIMITED — MAELEKEZO YA WEBSITE
+
+JINSI YA KUFUNGUA
+1. Pakua ZIP na uchague Extract All.
+2. Fungua folda "nipesalus-company".
+3. Bofya mara mbili index.html ili kufungua website kwenye Chrome, Firefox au Edge.
+
+TAARIFA ZILIZOWEKWA
+- Kampuni: NipeSalus Company Limited
+- Shughuli: Upandaji wa uyoga, uchakataji na usambazaji wa bidhaa za uyoga
+- Mahali: Kawekamo B, Mwanza, Tanzania
+- Mwaka: 2026
+- WhatsApp: 0755 188 687
+- Barua pepe: vmichael.tz671@gmail.com
+- Bidhaa: Fresh Mushroom, Dried Mushroom na Mushroom Powder
+- Saa za kazi: Jumatatu hadi Jumamosi, 08:00–18:00
+- Kauli mbiu: Uyoga safi, lishe bora, radha tamu
+
+KUMBUKA
+Namba ya WhatsApp imewekwa kwa mfumo wa kimataifa 255755188687 ili viungo vya WhatsApp vifanye kazi.
+Fomu haitumi ujumbe moja kwa moja; inafungua WhatsApp ikiwa na ujumbe uliojazwa, kisha mtumiaji anabonyeza Tuma.
+Bei, ukubwa wa vifungashio na upatikanaji wa bidhaa havijawekwa kwa sababu taarifa hizo hazikutolewa.
+Website haijachapishwa mtandaoni wala kupelekwa kwenye hosting.
+
+FAILI
+- index.html: maudhui na taarifa za kampuni
+- style.css: muonekano na rangi
+- script.js: menyu na WhatsApp
+- MAELEKEZO.txt: mwongozo huu
+
+
+Picha na nembo: Folda ya assets ina nembo rasmi ya NipeSalus na picha za mfano za Fresh Mushroom, Dried Mushroom na Mushroom Powder. Picha za uyoga zimetengenezwa kwa ajili ya muonekano wa tovuti; ukipata picha halisi za bidhaa zako unaweza kuzibadilisha kwa majina yale yale ya faili.
